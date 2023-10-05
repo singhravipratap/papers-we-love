@@ -4,7 +4,8 @@
 
 * :scroll: [Efficient Selectivity and Backup Operators in Monte-Carlo Tree Search](efficient-selectivity-and-backup-operators-in-monte-carlo-tree-search.pdf)
 
-* [Computing Machinery and Intelligence](http://www.csee.umbc.edu/courses/471/papers/turing.pdf) by A.M. Turing
+* [Computing Machinery and Intelligence (1950)](http://www.csee.umbc.edu/courses/471/papers/turing.pdf) by A.M. Turing
+    > This paper introduced Turin test, The test, states that if a machine can fool you into thinking that you are talking with a human being, it is intelligent.
 
 * [Judea Pearl](http://bayes.cs.ucla.edu/jp_home.html) folder - Papers by Judea Pearl, 2011 winner of the ACM Turing Award.
    * [:open_file_folder: Summary of Papers](judea_pearl/)
